@@ -1,1 +1,1 @@
-web: gunicorn app:0727app
+web: gunicorn app:app
